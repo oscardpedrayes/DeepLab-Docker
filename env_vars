@@ -1,0 +1,7 @@
+export PYTHONPATH=$PYTHONPATH:"/media/oscar/New Volume/Redes/PNOA-Deeplab/GitHub/models-master/research":"/media/oscar/New Volume/Redes/PNOA-Deeplab/GitHub/models-master/research/slim"
+
+
+
+python3.8 /home/oscar/.local/lib/python3.8/site-packages/tensorboard/main.py --logdir=.
+
+

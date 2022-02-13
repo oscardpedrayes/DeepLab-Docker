@@ -1,0 +1,5 @@
+PrettyTable
+tf_slim==1.0.0
+numpy==1.16.0
+pillow
+matplotlib
